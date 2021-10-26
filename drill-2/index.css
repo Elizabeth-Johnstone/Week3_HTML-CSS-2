@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+#firstBox {
+    height: 20vh;
+    border: 10px solid black;
+}
+
+#secondBox {
+    height: 20vh;
+    border: 10px solid rgb(75, 75, 75);
+}
+
+#thirdBox {
+    height: 20vh;
+    border: 10px solid rgb(180, 180, 180);
+}
+
