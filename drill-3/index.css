@@ -1,0 +1,69 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.containerOne {
+    height: 10vh;
+    width: 100%;
+    background-color: #D8D8D8;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+#box {
+    height: 50px;
+    width: 50px;
+    background-color: #4A90E2;
+}
+
+.containerTwo {
+    height: 22vh;
+    width: 100%;
+}
+
+p {
+    margin: 25px 20px;
+    font-size: 8.5pt;
+}
+
+.containerThree {
+    height: 17vh;
+    width: 100%;
+    background-color: #4A90E2;
+}
+
+.containerFour {
+    height: 17vh;
+    width: 100%;
+    background-color: #50E3C2;
+}
+
+.containerFive {
+    height: 17vh;
+    width: 100%;
+    background-color: #B8E986;
+}
+
+.containerSix {
+    height: 17vh;
+    width: 100%;
+    background-color: #F8E71C;
+}
+
+.question-container {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 20px;
+}
